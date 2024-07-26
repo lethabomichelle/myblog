@@ -1,0 +1,11 @@
+.hero {
+    height: 100%;
+}
+
+.home {
+    background-image: url(https://images.pexels.com/photos/3775593/pexels-photo-3775593.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: center;
+    height: 35rem;
+    text-align: center;
+}
